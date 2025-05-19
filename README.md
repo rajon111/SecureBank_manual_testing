@@ -12,7 +12,11 @@ The manual testing process covered various aspects of the SecureBank platform, f
 - **Usability Testing:** Ensuring an intuitive and user-friendly experience.
 - **Cross-Browser Testing:** Validating compatibility across multiple browsers.
 
-## Testing Activities Performed
+## Testing Activities Performed 
+
+### Full STLC doc
+
+Google Drive Link: https://drive.google.com/drive/u/5/folders/1TUWdpOfyoBNTyXQsf1aO_zV0kaZ9mWWD
 
 ### Test Plan Creation
 
@@ -32,10 +36,7 @@ Google Drive Link: https://drive.google.com/drive/u/5/folders/12RPU15GDlBRR66RHu
   - Testing strategy
   - Feature coverage
 
-<img src="https://drive.google.com/drive/u/5/folders/19SW5oC-cZrxinvUlOzjH3srV_ffOe1BO
-" alt="SecureBank Test Image_Graph" width="500"/>
-
-  ### Test Scenarios
+### Test Scenarios
 - Defined multiple **test scenarios** to validate:
   - Critical functionalities
   - Edge cases
@@ -50,14 +51,13 @@ Google Drive Link: https://drive.google.com/drive/u/5/folders/12RPU15GDlBRR66RHu
   - Test coverage
   - Test execution progress
 
-<img src="https://drive.google.com/uc?id=1Vk7w84RBuLYz6KOwFqZaW0XP8rtsJXyG" alt="SecureBank Test Image_Graph" width="500"/>  
-
 ### Bug Reports
 - Documented identified **defects** with:
   - Severity
   - Priority
   - Steps to reproduce
   - For efficient tracking and resolution
+
 <img src="https://drive.google.com/uc?id=1Vk7w84RBuLYz6KOwFqZaW0XP8rtsJXyG" alt="SecureBank Test Image_Graph" width="500"/>
 
 ### Tools Used
@@ -75,8 +75,6 @@ Google Drive Link: https://drive.google.com/drive/u/5/folders/12RPU15GDlBRR66RHu
 This manual testing project for SecureBank has successfully validated the platform's core functionalities and security measures. The documentation, including test cases, scenarios, mind map, test summary report, test metrics, and bug reports, has been prepared to assist in continuous quality improvement.
 
 ## Test Report Summary
-
-![SecureBank Test Image](https://drive.google.com/uc?id=1jmW2DDJ7o5DdMslVYbFrv0yHG21jrjIm)
 
 <img src="https://drive.google.com/uc?id=1Vk7w84RBuLYz6KOwFqZaW0XP8rtsJXyG" alt="SecureBank Test Image_Graph" width="500"/>
 
