@@ -31,8 +31,9 @@ Google Drive Link: https://drive.google.com/drive/u/5/folders/12RPU15GDlBRR66RHu
 - Designed a **mind map** to visualize:
   - Testing strategy
   - Feature coverage
-![SecureBank Test Image](https://drive.google.com/drive/u/5/folders/19SW5oC-cZrxinvUlOzjH3srV_ffOe1BO)
-<img src="https://drive.google.com/drive/u/5/folders/19SW5oC-cZrxinvUlOzjH3srV_ffOe1BO" alt="SecureBank Test Image_Graph" width="500"/>
+
+<img src="https://drive.google.com/drive/u/5/folders/19SW5oC-cZrxinvUlOzjH3srV_ffOe1BO
+" alt="SecureBank Test Image_Graph" width="500"/>
 
   ### Test Scenarios
 - Defined multiple **test scenarios** to validate:
